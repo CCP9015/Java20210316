@@ -6,6 +6,11 @@ public class Test {
             new Box("3", 10, 5, 4, 60),
             new Box("5", 16, 10, 6, 130)
         };
+        for (int i = 0; i < box.length; i++) {
+            box[i].print();
+
+        }
+
 
     }
 }
