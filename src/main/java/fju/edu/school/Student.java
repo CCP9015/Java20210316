@@ -1,4 +1,4 @@
-package fju.edu;
+package fju.edu.school;
 
 public class Student {
     String id;
