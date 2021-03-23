@@ -6,5 +6,10 @@ public class SilverCustomer extends Customer{
         super(id ,cus);
         this.discount = discount;
     }
+    @Override
+    public void print(){
+        System.out.println(id + "\t" + cus + "\t" + (int)(cus-(cus*discount)) );
+    }
+
 
 }

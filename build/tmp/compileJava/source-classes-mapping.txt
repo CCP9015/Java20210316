@@ -8,3 +8,9 @@ fju/edu/school/Tester.java
  fju.edu.school.Tester
 fju/edu/school/GraduateStudent.java
  fju.edu.school.GraduateStudent
+fju/edu/customer/Customer.java
+ fju.edu.customer.Customer
+fju/edu/customer/Test2.java
+ fju.edu.customer.Test2
+fju/edu/customer/SilverCustomer.java
+ fju.edu.customer.SilverCustomer
