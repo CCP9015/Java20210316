@@ -1,10 +1,10 @@
+fju/edu/Box.java
+ fju.edu.Box
+fju/edu/school/Student.java
+ fju.edu.school.Student
+fju/edu/Test.java
+ fju.edu.Test
 fju/edu/school/Tester.java
  fju.edu.school.Tester
 fju/edu/school/GraduateStudent.java
  fju.edu.school.GraduateStudent
-fju/edu/Test.java
- fju.edu.Test
-fju/edu/school/Student.java
- fju.edu.school.Student
-fju/edu/Box.java
- fju.edu.Box
