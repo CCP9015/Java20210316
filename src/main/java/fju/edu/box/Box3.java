@@ -9,7 +9,7 @@ public class Box3 extends Box {
 
     @Override
     public String getName() {
-        return "box 3";
+        return "box3";
     }
 
     @Override
