@@ -9,15 +9,15 @@ public class Test {
         Box3 box3 = new Box3();
         Scanner scan = new Scanner(System.in);
         System.out.println("please enter your lenth");
-        String len = scan.next();
+        int len = Integer.parseInt(scan.next());
         System.out.println("please enter your width");
-        String wid = scan.next();
+        int wid = Integer.parseInt(scan.next());
         System.out.println("please enter your hight");
-        String hig = scan.next();
+        int hig = Integer.parseInt(scan.next());
         System.out.println("lenth :" + len + "width" + wid + "hight" + hig);
-       /* if (box3.value(len, wid, hig)) {
+        if (box3.value(len,wid,hig)) {
             System.out.println(box3.getName());
-        }*/
+        }
 
 
 
