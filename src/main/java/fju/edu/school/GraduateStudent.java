@@ -1,6 +1,6 @@
 package fju.edu.school;
 
-public class GraduateStudent extends Student{
+public class GraduateStudent extends Student implements Mailer{
     int thesis;
     public GraduateStudent(String id, String name ,int english, int math,int thesis){
         super(id ,name ,english ,math);
@@ -12,4 +12,7 @@ public class GraduateStudent extends Student{
   }
 
 
+    public void mail() {
+
+    }
 }
