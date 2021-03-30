@@ -13,6 +13,7 @@ public class GraduateStudent extends Student implements Mailer{
 
 
     public void mail() {
+        System.out.println("hello");
 
     }
 

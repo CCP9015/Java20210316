@@ -1,6 +1,6 @@
 package fju.edu.school;
 
-public class Student {
+public abstract class Student {
     String id;
     String name;
     int english;
