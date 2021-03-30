@@ -15,4 +15,9 @@ public class GraduateStudent extends Student implements Mailer{
     public void mail() {
 
     }
+
+
+    public void rule() {
+
+    }
 }
