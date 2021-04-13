@@ -1,5 +1,5 @@
-fju/edu/customer/SilverCustomer.java
- fju.edu.customer.SilverCustomer
+fju/edu/box/Box3.java
+ fju.edu.box.Box3
 fju/edu/school/Mailer.java
  fju.edu.school.Mailer
 fju/edu/school/Tester.java
@@ -12,11 +12,19 @@ fju/edu/school/Student.java
  fju.edu.school.Student
 fju/edu/box/Box.java
  fju.edu.box.Box
-fju/edu/customer/Test2.java
- fju.edu.customer.Test2
-fju/edu/box/Box3.java
- fju.edu.box.Box3
 fju/edu/box/Box5.java
  fju.edu.box.Box5
 fju/edu/box/Test.java
  fju.edu.box.Test
+fju/edu/customer/Test2.java
+ fju.edu.customer.Test2
+fju/edu/customer/SilverCustomer.java
+ fju.edu.customer.SilverCustomer
+fju/edu/racing/Horse1.java
+ fju.edu.racing.Horse1
+fju/edu/racing/Horse2.java
+ fju.edu.racing.Horse2
+fju/edu/racing/Racing.java
+ fju.edu.racing.Racing
+fju/edu/racing/Horse.java
+ fju.edu.racing.Horse
