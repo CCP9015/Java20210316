@@ -20,11 +20,9 @@ fju/edu/customer/Test2.java
  fju.edu.customer.Test2
 fju/edu/customer/SilverCustomer.java
  fju.edu.customer.SilverCustomer
-fju/edu/racing/Horse2.java
- fju.edu.racing.Horse2
-fju/edu/racing/Racing.java
- fju.edu.racing.Racing
+fju/edu/racing/HorseRunable.java
+ fju.edu.racing.HorseRunable
 fju/edu/racing/Horse.java
  fju.edu.racing.Horse
-fju/edu/racing/Horse1.java
- fju.edu.racing.Horse1
+fju/edu/racing/Racing.java
+ fju.edu.racing.Racing
